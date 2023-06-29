@@ -4,6 +4,6 @@ In this project, we aim to gain insights and extract valuable information from t
 
 Schema-
 
-![MusicDatabaseSchema](https://github.com/chirantan-sym/India-Tourism-Data-Analysis-Project-py/assets/76128564/1d274425-1334-4a43-9402-ca7b837166c6)
+<img width="594" alt="schema_diagram" src="https://github.com/chirantan-sym/India-Tourism-Data-Analysis-Project-py/assets/76128564/08af5c8a-8199-4e59-9b67-e14ace65365d">
 
 ** Find DB, csv/s, SQL script and business queries above. Thanks! **
